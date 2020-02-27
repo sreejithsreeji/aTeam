@@ -1,7 +1,7 @@
 # Machine test server
 Machine Test NodeJS.
 ## Getting Started
-    git clone https://github.com/sreejithsreeji/machine-test-nodeJS
+    git clone https://github.com/sreejithsreeji/aTeam.git
 ### Prerequisites
  Nodejs  
  
