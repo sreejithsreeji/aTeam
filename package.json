@@ -1,0 +1,33 @@
+{
+  "name": "ateam",
+  "version": "1.0.0",
+  "description": "app server for user management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "user",
+    "management"
+  ],
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "nodemon": "^1.19.1",
+    "prettier": "^1.18.2"
+  },
+  "author": "sreejith",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "bcrypt": "^4.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "mongodb": "^3.3.1",
+    "mongoose": "^5.9.2",
+    "mongoose-timestamp": "^0.6.0",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "restify": "^8.5.1"
+  }
+}
